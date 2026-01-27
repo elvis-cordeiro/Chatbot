@@ -1,6 +1,6 @@
 # Chatbot-com-API-do-Google-Gemini
 
-Um Chatboot criado com instrução de sistema que você pode condicionar de acordo com a sua necessidade 
+Um Chatbot criado com instrução de sistema que você pode adaptar de acordo com a sua necessidade 
 Exemplo:
 
 
