@@ -1,11 +1,12 @@
 # Chatbot-com-API-do-Google-Gemini
 
-Um Chatboot criado com instrução de sistema que você pode variar de acordo com a sua necessidade Exemplo
+Um Chatboot criado com instrução de sistema que você pode condicionar de acordo com a sua necessidade 
+Exemplo:
 
 
 <img width="1137" height="34" alt="image" src="https://github.com/user-attachments/assets/a7f5fb3a-6308-43e4-ad96-d5f146941293" />
 
-E a Resposta apresentada é incrivel, sempre de acordo com asua orientação
+E a Resposta apresentada é incrivel é sempre de acordo com asua orientação
 
 
 <img width="1208" height="154" alt="image" src="https://github.com/user-attachments/assets/fe2f6973-5d11-4137-bf34-6e1fc011f7d0" />
