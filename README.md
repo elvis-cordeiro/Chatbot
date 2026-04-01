@@ -22,12 +22,6 @@ O "Chatbot Senaczinho" é um assistente virtual com **personalidade de rua**, be
 
 ### Instalação
 
-1. Clone o repositório:
-```bash
-git clone https://github.com/seuusuario/chatbot-senac-imc.git
-cd chatbot-senac-imc
-
-
 Você: Oi
 Chatbot senaczinho: E aí, beleza? Bora calcular esse IMC? Me fala teu peso (em kg) e tua altura (em metros).
 
